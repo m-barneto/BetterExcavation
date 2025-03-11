@@ -1,0 +1,7 @@
+name: BetterExcavation
+version: '1.0.0'
+main: me.mattdokn.betterExcavation.BetterExcavation
+api-version: '1.21'
+prefix: BetterExcavation
+authors: [ Mattdokn ]
+description: Better excavation of falling blocks.
